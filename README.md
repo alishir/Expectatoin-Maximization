@@ -18,3 +18,15 @@ Sample data and its related Gaussians.
 
 Steps of EM algorithm.
 ![EM steps](src/test/resources/steps.gif)
+
+**Weights**:
+
+blue = 0.7620660347548759
+
+orange=0.2379339652451241
+
+**Gaussians**:
+
+mean=16.97737328752034,  var=4.122184758891788   
+
+mean=27.516826908426882, var=2.4536040220003836  
